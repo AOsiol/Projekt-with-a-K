@@ -21,4 +21,4 @@ Challenges came to us at the very beginning. We had a hard time finding APIs tha
 
 ### Link
 
-- https://aosiol.github.io/Projekt-with-a-K/
+- https://aosiol.github.io/Stay-Or-Go/
